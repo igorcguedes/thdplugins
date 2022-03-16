@@ -1,6 +1,13 @@
-Plugins para o software TURBOHUD para DIABLO 3.
-Monk Sanc e um plugin para adicionar a borda customizada do santuario na GRIFT, facilitando a visualizacao do mesmo.
-Diferentes cores no Sanc dependendo da runa escolhida.
-Ratruns marca os magos, adiciona a rotacao do COE no pe do personagem e marca o ZNEC no minimapa.
-Summom Monsters marca todos os mobs que summonam outros mobs no mapa e no solo.
+Hey!
+I present to you some plugins that I developed for the TURBOHUD software, in the game Diablo 3.
+
+
+![image](https://user-images.githubusercontent.com/48987652/158696500-7168bea6-0cb8-430b-b749-d527f3ebfbff.png)
+
+He draws a green circle at the foot of the ZNEC for easy viewing in Rathmas.
+It also adds the COE rotation if equipped and warns if the simulacrum is active and the land of the dead.
+
+![image](https://user-images.githubusercontent.com/48987652/158696525-280f151f-5b2b-4b06-8d6d-421177ddbe59.png)
+
+To use it just add to your TurboHUD paste at plugins/SHAKE.
 
